@@ -3,7 +3,7 @@ import { AUTO, Game, Scale,Types } from 'phaser';
 import {UI} from "./scenes/UI.ts";
 import {Boot} from "./scenes/Boot.ts";
 
-import SpinePlugin from 'libs/SpinePlugin'; // DON'T DELETE!
+import SpinePlugin from '../public/assets/lib/SpinePlugin'; // DON'T DELETE!
 
 const config: Types.Core.GameConfig = {
     type: AUTO,
