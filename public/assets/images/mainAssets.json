@@ -1,0 +1,229 @@
+{
+	"textures": [
+		{
+			"image": "mainAssets",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2048,
+				"h": 2048
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "map.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 1400,
+						"h": 1400
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 1400,
+						"h": 1400
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1400,
+						"h": 1400
+					}
+				},
+				{
+					"filename": "logo_portrait.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 467,
+						"h": 278
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 467,
+						"h": 278
+					},
+					"frame": {
+						"x": 1400,
+						"y": 0,
+						"w": 467,
+						"h": 278
+					}
+				},
+				{
+					"filename": "bt_play.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 166,
+						"h": 81
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 166,
+						"h": 81
+					},
+					"frame": {
+						"x": 1867,
+						"y": 0,
+						"w": 166,
+						"h": 81
+					}
+				},
+				{
+					"filename": "ch_yellow.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 52,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 3,
+						"w": 50,
+						"h": 46
+					},
+					"frame": {
+						"x": 1867,
+						"y": 81,
+						"w": 50,
+						"h": 46
+					}
+				},
+				{
+					"filename": "ch_pink.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 52,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 4,
+						"w": 49,
+						"h": 43
+					},
+					"frame": {
+						"x": 1917,
+						"y": 81,
+						"w": 49,
+						"h": 43
+					}
+				},
+				{
+					"filename": "ch_green.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 52,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 2,
+						"w": 48,
+						"h": 47
+					},
+					"frame": {
+						"x": 1966,
+						"y": 81,
+						"w": 48,
+						"h": 47
+					}
+				},
+				{
+					"filename": "ch_blue.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 52,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 5,
+						"w": 47,
+						"h": 41
+					},
+					"frame": {
+						"x": 1917,
+						"y": 124,
+						"w": 47,
+						"h": 41
+					}
+				},
+				{
+					"filename": "ch_red.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 52,
+						"h": 52
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 2,
+						"w": 46,
+						"h": 47
+					},
+					"frame": {
+						"x": 1867,
+						"y": 127,
+						"w": 46,
+						"h": 47
+					}
+				},
+				{
+					"filename": "field_1_vertical.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 357,
+						"h": 361
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 357,
+						"h": 361
+					},
+					"frame": {
+						"x": 0,
+						"y": 1400,
+						"w": 357,
+						"h": 361
+					}
+				},
+				{
+					"filename": "button.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 788,
+						"h": 325
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 20,
+						"w": 788,
+						"h": 283
+					},
+					"frame": {
+						"x": 0,
+						"y": 1761,
+						"w": 788,
+						"h": 283
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "http://free-tex-packer.com",
+		"version": "0.6.7"
+	}
+}
