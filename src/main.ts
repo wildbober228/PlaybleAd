@@ -3,8 +3,6 @@ import { AUTO, Game, Scale,Types } from 'phaser';
 import {UI} from "./scenes/UI.ts";
 import {Boot} from "./scenes/Boot.ts";
 
-import SpinePlugin from '../public/assets/lib/SpinePlugin'; // DON'T DELETE!
-
 const config: Types.Core.GameConfig = {
     type: AUTO,
     width: 1920,
@@ -17,7 +15,7 @@ const config: Types.Core.GameConfig = {
     },
     scene: [Boot, MainGame, UI],
     plugins: {
-       scene: [{ key: 'SpinePlugin', plugin: window.SpinePlugin, mapping: 'spine' }],
+       scene: [{ key: '../public/assets/lib/SpinePlugin.js', plugin: window.SpinePlugin, mapping: 'spine' }],
     },
 };
 
